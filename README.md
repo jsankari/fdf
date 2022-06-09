@@ -1,2 +1,2 @@
 # fdf_linux
-Hive Helsinki project fdf for linux
+Hive Helsinki project fdf keys set for my Macbook
